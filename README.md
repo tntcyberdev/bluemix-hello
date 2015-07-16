@@ -1,1 +1,1 @@
-# bluemix-demo
+# hello-app
