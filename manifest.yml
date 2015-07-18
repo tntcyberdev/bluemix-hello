@@ -1,0 +1,9 @@
+---
+applications:
+- name: hellophptom
+  memory: 128M
+  instances: 1
+  host: hellophptom
+  domain: mybluemix.net
+  path: .
+  buildpack: https://github.com/dmikusa-pivotal/cf-php-apache-buildpack.git
