@@ -15,7 +15,7 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="img/logo.jpeg" />
+	<img id="logo" src="www/logo.jpeg" />
 	<h1>Hello Docker Vietnam 2015</h1>
 	<p>My name is Tom. Today I show you Bluemix, a PaaS solution by IBM.</p>
 
