@@ -1,9 +1,10 @@
 ---
 applications:
-- name: hellophptom
-  memory: 128M
-  instances: 1
+- disk_quota: 1024M
+  buildpack: php_buildpack
   host: hellophptom
-  domain: mybluemix.net
+  name: hellophptom
   path: .
-  buildpack: https://github.com/dmikusa-pivotal/cf-php-apache-buildpack.git
+  domain: mybluemix.net
+  instances: 1
+  memory: 128M
