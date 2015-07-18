@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER support@geekpolis.com
+MAINTAINER webtomme@gmail.com
 RUN apk --update add nginx php-fpm
 RUN mkdir -p /tmp/nginx && echo "clear_env = no" >> /etc/php/php-fpm.conf
 ADD www /www
