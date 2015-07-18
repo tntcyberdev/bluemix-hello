@@ -15,8 +15,9 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo.jpeg" />
-	<h1>Hello Docker Vietnam</h1>
+	<img id="logo" src="img/logo.jpeg" />
+	<h1>Hello Docker Vietnam 2015</h1>
+	<p>My name is Tom. Today I show you Bluemix, a PaaS solution by IBM.</p>
 
 	<?php print "Today: " . date('dS F, Y'); ?>
 </body>
