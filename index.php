@@ -18,6 +18,5 @@
 	<h3>Hi, my name is Tom Tran. Today I'll demo Bluemix, a PaaS solution by IBM.</h3>
 	<p>You can tweet me @webtomme.</p>
   	<img src="http://cs.smu.ca/bluemixhackathon/img/IBMBlueMix.jpg" height="100px">
-  	<p>hello</p>
 </body>
 </html>
